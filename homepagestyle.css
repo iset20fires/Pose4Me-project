@@ -4,3 +4,45 @@
     background-color: antiquewhite;
     color: black;
 }
+
+
+
+
+
+
+.image-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.fem {
+    margin-right: 50px;
+    height: 360px;
+    width: 265px;
+    border: solid black 8px;
+}
+
+.masc {
+    margin-left: 50px;
+    height: 360px;
+    width: 290px;
+    border: solid black 8px;
+}
+
+
+
+#fem-text {
+    text-decoration: none;
+    text-align: center;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: black;
+}
+
+#masc-text {
+    text-decoration: none;
+    text-align: center;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: black;
+}
+
