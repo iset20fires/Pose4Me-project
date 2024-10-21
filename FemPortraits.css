@@ -4,3 +4,8 @@
     background-color: antiquewhite;
     color: brown;
 }
+
+.fem-portraits-photos img {
+    width: 350px;
+    height: auto; 
+}
