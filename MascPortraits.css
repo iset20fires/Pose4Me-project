@@ -4,3 +4,10 @@
     background-color: antiquewhite;
     color: brown;
 }
+
+
+
+.masc-portraits-photos img {
+    width: 350px;
+    height: auto; 
+}
