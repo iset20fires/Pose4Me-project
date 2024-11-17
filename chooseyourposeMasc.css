@@ -1,7 +1,12 @@
+body {
+    background-color: antiquewhite;
+}
+
+
 .title {
     text-align: center;
     font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    background-color: antiquewhite;
+    background-color: rgb(230, 201, 164);
     color: black;
 }
 

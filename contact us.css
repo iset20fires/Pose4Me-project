@@ -1,0 +1,49 @@
+body {
+    background-color: antiquewhite;
+}
+
+
+
+body {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-color: antiquewhite;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.contactus-container {
+    background-color: rgb(230, 201, 164);
+    padding: 20px;
+    border-radius: 6px;
+    max-width: 600px;
+    width: 100%;
+}
+
+h2 {
+    margin-top: 0;
+    color: black;
+    text-align: center;
+}
+
+label {
+    display: block;
+    margin-bottom: 0.5rem;
+    font-weight: bold;
+    color: black;}
+
+
+/*
+.form-div {
+        margin-bottom: 1rem;
+}
+
+
+
+
+
+
+

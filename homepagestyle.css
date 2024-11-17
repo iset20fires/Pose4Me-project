@@ -1,7 +1,35 @@
+body {
+    background-color: antiquewhite;
+}
+
+#nav1 {
+    background-color: rgb(230, 201, 164);
+    height: 50px;
+    padding: 3px;
+    margin-bottom: 20px;
+}
+
+#nav1 ul {
+    list-style: none;
+}
+
+#nav1 ul li {
+    display: inline-block;
+}
+
+#nav1 ul li a{
+    text-decoration: none;
+    margin-right: 30px;
+    color: black;
+}
+
+
+
+
 .title {
     text-align: center;
     font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    background-color: antiquewhite;
+    background-color: rgb(230, 201, 164);
     color: black;
 }
 
