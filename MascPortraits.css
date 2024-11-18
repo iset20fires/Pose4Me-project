@@ -25,7 +25,6 @@ body {
 }
 
 
-
 .MascTitle {
     text-align: center;
     font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -37,5 +36,5 @@ body {
 
 .masc-portraits-photos img {
     width: 350px;
-    height: auto; 
+    height: auto;
 }
