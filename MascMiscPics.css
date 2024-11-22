@@ -1,0 +1,43 @@
+.MascMiscPictures {
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-color: lightsteelblue;
+    color: navy;
+    padding: 10px;
+    margin-bottom: 20px;
+    border-radius: 5px;
+}
+
+.Masc-images h2 {
+    font-family: 'Trebuchet MS', Arial, sans-serif;
+    background-color: lightgray;
+    color: darkblue;
+    padding: 5px;
+    margin-top: 20px;
+    margin-bottom: 10px;
+    border-radius: 3px;
+    text-align: center;
+}
+
+.Masc-images img {
+width: 250px;
+height: auto;
+margin: 10px;
+border-radius: 5px;
+box-shadow: 2px 2px 5px rgb(0, 0, 0, 0.1);
+}
+
+.Masc-images {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 15px;
+    padding: 20px;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f5f5f5;
+    margin: 0;
+    padding: 0;
+}
