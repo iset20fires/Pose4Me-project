@@ -37,3 +37,16 @@ body{
     left: 60px;
 }
 
+.FemTitle {
+    text-align: center;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-color: antiquewhite;
+    color: brown;
+}
+
+
+
+.fem-portraits-photos img {
+    width: 350px;
+    height: auto; 
+}
