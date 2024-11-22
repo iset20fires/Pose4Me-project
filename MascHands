@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Hand Models</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+
+<!-- Link Html Code? -->
+<a href="" id="">
+
+<div class="gallery-section">
+    <h2>Men's Hands</h2>
+    <div class="gallery" id="male-gallery">
+        <img src="https://i.pinimg.com/736x/7c/4d/2b/7c4d2b18fb2a48d702fa174b02af0974.jpg" alt="Man Hand 1">
+        <img src="https://pbs.twimg.com/media/F7yXTXVXIAAVCBz.jpg:large" alt="Man Hand 2">
+        <img src="images/masc2.jpg" alt="Man Hand 3">
+        <img src="images/masc2.jpg" alt="Man Hand 3">
+        <img src="images/masc2.jpg" alt="Man Hand 3">
+        <img src="images/masc2.jpg" alt="Man Hand 3">
+        <img src="images/masc2.jpg" alt="Man Hand 3">
+        <img src="images/masc2.jpg" alt="Man Hand 3">
+        <img src="images/masc2.jpg" alt="Man Hand 3">
+        <img src="images/masc2.jpg" alt="Man Hand 3">
+        <img src="images/masc2.jpg" alt="Man Hand 3">
+        <img src="images/masc2.jpg" alt="Man Hand 3">
+        <img src="images/masc2.jpg" alt="Man Hand 3">
+        <img src="images/masc2.jpg" alt="Man Hand 3">
+        <img src="images/masc2.jpg" alt="Man Hand 3">
+        <img src="images/masc2.jpg" alt="Man Hand 3">
+        <img src="images/masc2.jpg" alt="Man Hand 3">
+        <img src="images/masc2.jpg" alt="Man Hand 3">
+        <img src="images/masc2.jpg" alt="Man Hand 3">
+        <img src="images/masc2.jpg" alt="Man Hand 3">
+        <img src="images/masc2.jpg" alt="Man Hand 3">
+        <img src="images/masc2.jpg" alt="Man Hand 3">
+        <img src="images/masc2.jpg" alt="Man Hand 3">
+        <img src="images/masc2.jpg" alt="Man Hand 3">
+        <img src="images/masc2.jpg" alt="Man Hand 3">
+        <img src="images/masc2.jpg" alt="Man Hand 3">
+        <img src="images/masc2.jpg" alt="Man Hand 3">
+        <img src="images/masc2.jpg" alt="Man Hand 3">
+        <img src="images/masc2.jpg" alt="Man Hand 3">
+        <img src="images/masc2.jpg" alt="Man Hand 3">
+        <img src="images/masc2.jpg" alt="Man Hand 3">
+        <img src="images/masc2.jpg" alt="Man Hand 3">
+        <img src="images/masc2.jpg" alt="Man Hand 3">
+        <img src="images/masc2.jpg" alt="Man Hand 3">
+        <img src="images/masc2.jpg" alt="Man Hand 3">
+        <img src="images/masc2.jpg" alt="Man Hand 3">
+        <img src="images/masc2.jpg" alt="Man Hand 3">
+        <img src="images/masc2.jpg" alt="Man Hand 3">
+        <img src="images/masc2.jpg" alt="Man Hand 3">
+        <img src="images/masc2.jpg" alt="Man Hand 3">
+        <img src="images/masc2.jpg" alt="Man Hand 3">
+    </div>
+</div>
+</body>
+</html>
