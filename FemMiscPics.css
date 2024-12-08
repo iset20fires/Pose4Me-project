@@ -1,0 +1,52 @@
+.fem-images{
+    width: 1200px;
+    height: 400px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+}
+
+img{
+    margin: 20px;
+    width: 300px;
+    border: solid 2px cornflowerblue;
+    border-radius: 20px;
+}
+
+#id2{
+    position: relative;
+    top: 60px;
+}
+
+body{
+    background-color: rgb(167, 130, 82, 0.6);
+}
+
+.MiscPictures{
+    text-align: center;
+}
+
+.fem-images h1{
+    text-align: center;   
+}
+
+#id1{
+    position: absolute;
+    top: 100px;
+    left: 60px;
+}
+
+.FemTitle {
+    text-align: center;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-color: antiquewhite;
+    color: brown;
+}
+
+
+
+.fem-portraits-photos img {
+    width: 350px;
+    height: auto; 
+}
