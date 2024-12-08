@@ -2,7 +2,6 @@ body {
     background-color: antiquewhite;
 }
 
-
 #nav1 {
     background-color: rgb(109, 179, 109);
     height: 50px;
@@ -23,8 +22,6 @@ body {
     margin-right: 30px;
     color: rgb(9, 58, 11);
 }
-
-
 
 .fullbody-title{
     text-align: center;
