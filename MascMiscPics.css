@@ -1,3 +1,32 @@
+body{
+    background-color: antiquewhite;
+}
+
+
+
+#nav1 {
+    background-color: lightsteelblue;
+    height: 50px;
+    padding: 3px;
+    margin-bottom: 20px;
+}
+
+#nav1 ul {
+    list-style: none;
+}
+
+#nav1 ul li {
+    display: inline-block;
+}
+
+#nav1 ul li a{
+    text-decoration: none;
+    margin-right: 30px;
+    color: darkblue;
+}
+
+
+
 .MascMiscPictures {
     text-align: center;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -37,7 +66,6 @@ box-shadow: 2px 2px 5px rgb(0, 0, 0, 0.1);
 
 body {
     font-family: Arial, sans-serif;
-    background-color: #f5f5f5;
     margin: 0;
     padding: 0;
 }
