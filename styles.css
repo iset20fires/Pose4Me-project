@@ -1,0 +1,50 @@
+body {
+    background-color: antiquewhite;
+}
+
+
+
+#nav1 {
+    background-color: rgb(197, 79, 79);
+    height: 50px;
+    padding: 3px;
+    margin-bottom: 20px;
+}
+
+#nav1 ul {
+    list-style: none;
+}
+
+#nav1 ul li {
+    display: inline-block;
+}
+
+#nav1 ul li a{
+    text-decoration: none;
+    margin-right: 30px;
+    color: rgb(91, 25, 25);
+}
+
+
+
+.title {
+    text-align: center;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-color: rgb(197, 79, 79);
+    color: rgb(91, 25, 25);
+}
+
+
+.gallery {
+    display: grid;
+    grid-template-columns: repeat(5, 1fr);
+    justify-items: center;
+    margin-bottom: 40px;
+}
+
+.gallery img {
+    width: 150px;
+    height: 150px;
+    object-fit: cover;
+    border-radius: 10px;
+}
